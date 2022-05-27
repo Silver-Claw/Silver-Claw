@@ -1,4 +1,4 @@
-👋 Hi, I’m @Silver-Claw
+👋 Hi, I’m @Silver-Paw
 
 👀 I’m interested in Network technologies, and Computer programming
 
@@ -10,6 +10,6 @@
 📫 You can contact me via my [LinkedIn page](https://www.linkedin.com/in/silvère-chabal)
 
 <!---
-Silver-Claw/Silver-Claw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Silver-Paw/Silver-Paw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
